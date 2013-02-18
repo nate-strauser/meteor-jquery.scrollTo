@@ -1,5 +1,5 @@
 {
-	"name": "jquery.scrollTo",
+	"name": "jquery-scrollTo",
 	"description": "jquery.scrollTo, packaged for Meteor",
 	"homepage": "https://github.com/nate-strauser/meteor-jquery.scrollTo",
 	"author": "Nate Strauser",
