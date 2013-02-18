@@ -1,0 +1,3 @@
+[submodule "lib/jquery.scrollTo"]
+	path = lib/jquery.scrollTo
+	url = https://github.com/flesler/jquery.scrollTo.git
